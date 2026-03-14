@@ -2,4 +2,4 @@
 This repository is about terraform with azure.
 
 # What is Infra as a Code
-  _Provisioning your infra through code.
+  *Provisioning your infra through code.
