@@ -1,0 +1,8 @@
+environment            = "Production"
+resource_group_name    = "terraform-rg"
+location               = "Canada Central"
+virtual_network_name   = "SBI-VNET"
+storage_account_name   = "tfstg0099"
+storage_container_name = "content"
+network_interface      = "web-vm-"
+ip_config              = "testconfiguration1"

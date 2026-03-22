@@ -1,0 +1,8 @@
+scripting
+Terraform
+Yaml
+Docker
+Kubernetes
+CI/CD Pipelines
+configuration
+cloud
